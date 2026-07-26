@@ -1,6 +1,6 @@
 # 🎭 Feelings Finder — Emotion Classifier
 
-**🔗 Live app:** [[ADD YOUR STREAMLIT APP LINK HERE](https://your-app-url.streamlit.app](https://emotion-classification-with-attention-u4oinkklbcawnkdzkzvfjb.streamlit.app/))
+**🔗 Live app:** [[YOU CAN FIND STREAMLIT APP LINK HERE](https://emotion-classification-with-attention-u4oinkklbcawnkdzkzvfjb.streamlit.app/)
 
 **🤗 Model on Hugging Face:** [ShahdCoder/emotion-classifier-distilbert](https://huggingface.co/ShahdCoder/emotion-classifier-distilbert)
 
